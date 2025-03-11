@@ -2,7 +2,6 @@
 rm(list = ls())
 
 # Set working directory (Replace this directory with your own)
-# Eli
 setwd("/Users/elishapiro/Documents/GitHub/Replication_Field_et_al_2013/")
 #Joanna
 #setwd("/Users/nowinski/Desktop/DEV/Replication/Publication-Data-and-Do-Files")
